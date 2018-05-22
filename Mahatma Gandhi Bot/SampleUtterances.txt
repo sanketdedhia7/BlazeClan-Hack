@@ -1,0 +1,64 @@
+Mother_as_a_person	be your {motherslot} a good person
+Mother_as_a_person	be your {motherslot} a religious lady
+Mother_as_a_person	religious life of your {motherslot}
+Mother_as_a_person	was your {motherslot} a good person
+Mother_as_a_person	was your {motherslot} a religious lady
+Mother_as_a_person	what be your {motherslot} like
+Mother_as_a_person	what be your {motherslot} like as a person
+Mother_as_a_person	what was your {motherslot} like
+Mother_as_a_person	what was your {motherslot} like as a person
+Secondary_education_of_gandhi	how did you live through {secondary_educationslot}
+Secondary_education_of_gandhi	how do you live through {secondary_educationslot}
+Secondary_education_of_gandhi	where did you pursue your {secondary_educationslot} from
+Secondary_education_of_gandhi	where do you pursue your {secondary_educationslot} from
+Secondary_education_of_gandhi	y
+Secondary_education_of_gandhi	your {secondary_educationslot}
+Secondary_education_of_gandhi	your {secondary_educationslot} life
+Marital_life_of_father	{fatherslot} gandhi s wife
+Marital_life_of_father	{fatherslot} gandhi s family
+Marital_life_of_father	{fatherslot} gandhi as a family man
+Marital_life_of_father	{fatherslot} gandhi s marital life
+Marital_life_of_father	{fatherslot} gandhi s sons
+Marital_life_of_father	marital life of {fatherslot} gandhi
+FatherS_education	{fatherslot} s education
+FatherS_education	did your {fatherslot} receive any formal education
+FatherS_education	education of your {fatherslot}
+FatherS_education	how educated be your {fatherslot}
+FatherS_education	how educated be {fatherslot}
+FatherS_education	how educated was your {fatherslot}
+FatherS_education	how educated was {fatherslot}
+Caste	what is your original {birth_and_parentageslot}
+Caste	what is your {birth_and_parentageslot}
+Caste	what {birth_and_parentageslot} does your family belong to
+Caste	which {birth_and_parentageslot} do you belong to
+Father_as_a_person	{fatherslot} gandhi as a person
+Father_as_a_person	be your {fatherslot} a good man
+Father_as_a_person	how be your {fatherslot} as a person
+Father_as_a_person	how be {fatherslot} gandhi as a person
+Father_as_a_person	how was your {fatherslot} as a person
+Father_as_a_person	how was {fatherslot} gandhi as a person
+Father_as_a_person	was your {fatherslot} a good man
+Father_as_a_person	what be your {fatherslot} as a person
+Father_as_a_person	what was your {fatherslot} as a person
+Father_as_a_person	what was your {fatherslot} nature
+Grandfather	{grandfatherslot}
+Grandfather	what be your {grandfatherslot} {grandfatherslot} profession
+Grandfather	what did your {grandfatherslot} do
+Grandfather	what do your {grandfatherslot} do
+Grandfather	what kind of a man be your {grandfatherslot}
+Grandfather	what kind of a man was your {grandfatherslot}
+Grandfather	what was your {grandfatherslot} {grandfatherslot} s profession
+Grandfather	who be {grandfatherslot} gandhi to you
+Grandfather	who was {grandfatherslot} gandhi to you
+Education_of_gandhi	how be your experience at {educationslot}
+Education_of_gandhi	how was your experience at {educationslot}
+Education_of_gandhi	primary {educationslot}
+Education_of_gandhi	what be your formal {educationslot}
+Education_of_gandhi	what did you {educationslot} in your {birth_and_parentageslot}
+Education_of_gandhi	what do you {educationslot} in your {birth_and_parentageslot}
+Education_of_gandhi	what was your formal {educationslot}
+Father	mahatma gandhi s {fatherslot}
+Father	what be your {fatherslot} occupation
+Father	what is your {fatherslot} name
+Father	what was your {fatherslot} occupation
+Father	who is your {fatherslot}

@@ -1,0 +1,89 @@
+{
+  "intents": [
+    {
+      "intent": "Mother_as_a_person",
+      "slots": [
+        {
+          "name": "motherslot",
+          "type": "MOTHER"
+        }
+      ]
+    },
+    {
+      "intent": "Secondary_education_of_gandhi",
+      "slots": [
+        {
+          "name": "secondary_educationslot",
+          "type": "SECONDARY_EDUCATION"
+        }
+      ]
+    },
+    {
+      "intent": "Marital_life_of_father",
+      "slots": [
+        {
+          "name": "fatherslot",
+          "type": "FATHER"
+        }
+      ]
+    },
+    {
+      "intent": "FatherS_education",
+      "slots": [
+        {
+          "name": "fatherslot",
+          "type": "FATHER"
+        }
+      ]
+    },
+    {
+      "intent": "Caste",
+      "slots": [
+        {
+          "name": "birth_and_parentageslot",
+          "type": "BIRTH_AND_PARENTAGE"
+        }
+      ]
+    },
+    {
+      "intent": "Father_as_a_person",
+      "slots": [
+        {
+          "name": "fatherslot",
+          "type": "FATHER"
+        }
+      ]
+    },
+    {
+      "intent": "Grandfather",
+      "slots": [
+        {
+          "name": "grandfatherslot",
+          "type": "GRANDFATHER"
+        }
+      ]
+    },
+    {
+      "intent": "Education_of_gandhi",
+      "slots": [
+        {
+          "name": "educationslot",
+          "type": "EDUCATION"
+        },
+        {
+          "name": "birth_and_parentageslot",
+          "type": "BIRTH_AND_PARENTAGE"
+        }
+      ]
+    },
+    {
+      "intent": "Father",
+      "slots": [
+        {
+          "name": "fatherslot",
+          "type": "FATHER"
+        }
+      ]
+    }
+  ]
+}
